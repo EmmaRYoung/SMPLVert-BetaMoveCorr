@@ -3,6 +3,7 @@ Correlating the magnitude of SMPL vertices (N=6890) movement with SMPL shape par
 
 ## Requirements
 [SMPL repositories ](https://smpl.is.tue.mpg.de/)
+Pandas
 
 ## Explanation
 ### Reliability - Prepare Data
