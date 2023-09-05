@@ -14,7 +14,8 @@ This data is combined and a correlation matrix is created using pandas.
 
 ### ReliabilityVisualizeShapeCorrelation.m
 
-The entire 6900x6900 matrix is imported into this script, but only a small segment of the matrix is used for visualization.
+The entire 6900x6900 correlation matrix is imported into this script, but only a small segment of the matrix is used for visualization.
+
 ![image](https://github.com/EmmaRYoung/SMPLVert-BetaMoveCorr/assets/67296859/74cf47b0-d1ca-4e00-928e-477dacbd4e15)
 
 Matlab's colormap feature is useful to generate a colormap to easily visualize the data. The correlations for &beta;<sub>1 are shown here, but more can be viewed in the PDF "Explanation.pdf"
