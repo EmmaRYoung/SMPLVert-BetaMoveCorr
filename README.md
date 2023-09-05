@@ -18,7 +18,7 @@ The entire 6900x6900 correlation matrix is imported into this script, but only a
 
 ![image](https://github.com/EmmaRYoung/SMPLVert-BetaMoveCorr/assets/67296859/74cf47b0-d1ca-4e00-928e-477dacbd4e15)
 
-Matlab's colormap feature is useful to generate a colormap to easily visualize the data. The correlations for &beta;<sub>1 are shown here, but more can be viewed in the PDF "Explanation.pdf"
+Matlab's colormap feature is useful to generate a colormap to easily visualize the data. The correlations for &beta;<sub>1</sub> are shown here, but more can be viewed in the PDF "Explanation.pdf"
 ![image](https://github.com/EmmaRYoung/SMPLVert-BetaMoveCorr/assets/67296859/b9cb8e26-045c-4f1a-8626-9370978f7a0e)
 
 
